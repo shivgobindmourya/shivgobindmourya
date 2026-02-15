@@ -2,7 +2,7 @@
 <h3 align="center">BTech CSE Student | Full Stack Developer | DSA Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Hackathon+Enthusiast;Problem+Solver;Cybersecurity+Explorer;Building+in+Public+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Problem+Solver;DSA+Learner;Building+in+Public+🚀">
 </p>
 
 ---
