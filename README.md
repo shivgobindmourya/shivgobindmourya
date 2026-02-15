@@ -15,21 +15,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-
-### 💻 Languages  
-C++ | JavaScript | HTML | CSS  
-
-### ⚛️ Frontend  
-React.js | Tailwind CSS  
-
-### 🛠️ Backend  
-Node.js | Express.js  
-
-### 🗄️ Database  
-MongoDB  
-
-### 🔧 Tools  
-Git | GitHub | VS Code  
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 
 ---
 
@@ -43,7 +32,7 @@ Git | GitHub | VS Code
 
 ## 🔥 LeetCode Stats  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivgobindmourya)
 
 ---
 
@@ -51,15 +40,15 @@ Git | GitHub | VS Code
 
 - ✅ Complete Advanced Full Stack Projects  
 - 🎯 Participate in 3+ Hackathons  
-- 📈 Reach 500+ LeetCode Problems  
+- 📈 Reach 300+ LeetCode Problems  
 - 💼 Get Paid Internship  
 
 ---
 
 ## 🌐 Connect With Me  
 
-[LinkedIn](YOUR_LINK)  
-[LeetCode](YOUR_LINK)  
+[LinkedIn](https://www.linkedin.com/in/shiv-gobind-012081332)  
+[LeetCode](https://leetcode.com/u/shivgobindmourya/)  
 
 ---
 
