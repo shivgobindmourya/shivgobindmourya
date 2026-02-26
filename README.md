@@ -39,6 +39,11 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivgobindmourya&label=Profile%20Views&color=7aa2f7&style=for-the-badge" />
+</p>
 
 ## 📊 GitHub Analytics  
 
