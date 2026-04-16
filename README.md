@@ -92,3 +92,8 @@
 ---
 
 <h3 align="center">⭐ Building in Public | Growing 1% Every Day</h3>
+
+## Let's Connect 🤝:
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in AI 🤖, or web development 🌐. Let’s make something amazing together! 🚀
+![Preview](githubgif.gif)
+
